@@ -1,5 +1,5 @@
 # DiscordBot
-Authors: Ajay Desai, Edward Du, Jeffrey Zhang, Tausif Khan
+Authors: Edward Du, Ajay Desai
 
 A cool little Discord bot that plays music in voice channels! You can add songs to the queue, pause songs, or skip songs whenever.
 
